@@ -119,13 +119,12 @@ body {
     background-size: cover;
 }
 
-.app-download:nth-child(1) {
-    background-image: url('./img/botao-appstore.png')
+.download img {
+    width: 50%;
+    margin-right: 10px;
+    cursor: pointer;
 }
 
-.app-download:nth-child(2) {
-    background-image: url('./img/botao-playstore.png');
-}
  
 @media (max-width: 1024px) {
     .instagram-wrapper {

@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 45rem;
 }
 
 .instagram-continue {
@@ -132,7 +132,7 @@ body {
     }
 }
     
-@media (max-width: 650px ) {
+@media (max-width: 699px ) {
     .body {
         background-color: #ffff;
     }
